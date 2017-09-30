@@ -1,0 +1,36 @@
+{
+  "name": "pug-plugin-replace-tags",
+  "version": "1.0.0",
+  "description": "Pug plugin used to replace tag names.",
+  "main": "index.js",
+  "repository": "https://github.com/ark120202/pug-plugin-replace-tags.git",
+  "author": "ark120202",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint **/*.js && ava"
+  },
+  "keywords": [
+    "dota",
+    "dota2",
+    "panorama",
+    "valve",
+    "pug",
+    "html"
+  ],
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint": "^4.7.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-config-ark120202": "^1.0.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-unicorn": "^2.1.2",
+    "pug": "^2.0.0-rc.4"
+  },
+  "peerDependencies": {
+    "pug": "^2.0.0-rc.4"
+  },
+  "ava": {
+    "verbose": "true"
+  }
+}
