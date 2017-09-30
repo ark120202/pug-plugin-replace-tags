@@ -10,10 +10,6 @@
     "test": "eslint **/*.js && ava"
   },
   "keywords": [
-    "dota",
-    "dota2",
-    "panorama",
-    "valve",
     "pug",
     "html"
   ],
