@@ -1,6 +1,6 @@
 {
   "name": "pug-plugin-replace-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pug plugin used to replace tag names.",
   "main": "index.js",
   "repository": "https://github.com/ark120202/pug-plugin-replace-tags.git",
